@@ -1,16 +1,88 @@
-## Hi there 👋
+# Cześć, jestem Emilia 👋
 
-<!--
-**emczik/emczik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### w internecie jako **Emczi**
 
-Here are some ideas to get you started:
+Mam kilkuletnie doświadczenie w **obsłudze klienta**, a poza tym mocno interesuję się **technologią, sprzętem komputerowym, gamingiem i tworzeniem własnych projektów**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lubię rozwiązywać problemy, uczyć się nowych rzeczy i zamieniać pomysły w coś, co faktycznie działa.
+
+📍 Kielce
+🌍 Polski / angielski
+💼 Otwarta na nowe możliwości zawodowe
+
+---
+
+## 🚀 Nad czym pracuję
+
+### 🧸 Squeeze Simulator
+
+Gra typu clicker tworzona w **Roblox Studio**.
+
+Projekt zawiera między innymi:
+
+* system progresji
+* odblokowywanie kolejnych gniotków
+* modele 3D
+* questy
+* ulepszenia
+* walutę w grze
+* zapis postępu gracza
+* sklep premium
+* własny interfejs i animacje
+
+**Technologie:** Roblox Studio • Lua • Game Design • UI • DataStore
+
+---
+
+### 🏠 RentPredict
+
+> 🚧 Projekt w trakcie rozwoju
+
+Platforma do **analizy i przewidywania cen wynajmu mieszkań** na podstawie danych z rynku nieruchomości.
+
+Projekt jest obecnie aktywnie rozwijany.
+
+**Obszary:** Web • Data • Real Estate • Prediction
+
+---
+
+### 🌐 Portfolio
+
+Moja własna strona portfolio stworzona przy użyciu **HTML, CSS i JavaScript** i hostowana na Cloudflare Pages.
+
+👉 **[emczi.pages.dev](https://emczi.pages.dev)**
+
+---
+
+## 💻 Umiejętności
+
+### Customer Support
+
+Customer Support • Chat Support • Email Support • Phone Support • Problem Solving • Communication • Partner Support
+
+### Tech
+
+PC Hardware • PC Building • Windows • Troubleshooting • HTML • CSS • JavaScript • VS Code
+
+### Gaming & Content
+
+Roblox Studio • Lua • OBS • Streaming • Twitch • Kick • Discord • Community
+
+---
+
+## 🎮 Gdzie mnie znaleźć
+
+🌐 [Portfolio](https://emczi.pages.dev)
+
+🎮 [Twitch](https://twitch.tv/pinkupinku)
+
+🟢 [Kick](https://kick.com/emczik)
+
+📧 [Email](mailto:egrochocka98@gmail.com)
+
+---
+
+```text
+> status
+ready_for_next_challenge
+```
