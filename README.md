@@ -50,7 +50,7 @@ Projekt jest obecnie aktywnie rozwijany.
 
 Moja własna strona portfolio stworzona przy użyciu **HTML, CSS i JavaScript** i hostowana na Cloudflare Pages.
 
-👉 **[emczi.pages.dev](https://emczi.pages.dev)**
+👉 **[emczi.pl](https://emczi.pl)**
 
 ---
 
