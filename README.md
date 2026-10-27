@@ -48,7 +48,7 @@ Projekt jest obecnie aktywnie rozwijany.
 
 ### 🌐 Portfolio
 
-Moja własna strona portfolio stworzona przy użyciu **HTML, CSS i JavaScript** i hostowana na Cloudflare Pages.
+Moja własna strona portfolio stworzona przy użyciu **HTML, CSS i JavaScript** i hostowana przeze mnie.
 
 👉 **[emczi.pl](https://emczi.pl)**
 
@@ -72,7 +72,7 @@ Roblox Studio • Lua • OBS • Streaming • Twitch • Kick • Discord • 
 
 ## 🎮 Gdzie mnie znaleźć
 
-🌐 [Portfolio](https://emczi.pages.dev)
+🌐 [Portfolio](https://emczi.pl)
 
 🎮 [Twitch](https://twitch.tv/pinkupinku)
 
